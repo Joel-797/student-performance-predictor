@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+models/*.joblib
+!models/.gitkeep
+.env
+.DS_Store
+*.log
