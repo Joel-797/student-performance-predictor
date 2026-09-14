@@ -6,8 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 .idea/
 .vscode/
-models/*.joblib
-!models/.gitkeep
 .env
 .DS_Store
 *.log
+reports/eda.png
