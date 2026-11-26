@@ -64,5 +64,5 @@ Random forest: test MAE 5.26, test RMSE 6.25, test R2 0.618
 The full record is in `reports/metrics.json`. Train again after you change the data so the saved model and that file stay in sync.
 
 
-<video src="https://github.com/user-attachments/assets/75d48734-2817-4282-a698-11473b8b5148" controls width="800"></video>
+https://github.com/user-attachments/assets/75d48734-2817-4282-a698-11473b8b5148
 
